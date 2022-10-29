@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @anapetre007
-- 👀 I’m interested in any
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Google
+- 👋 Hi, I’m @anapetre00
 - 📫 How to reach me gmail: anapetre058@gmail.com
 
 <!---
